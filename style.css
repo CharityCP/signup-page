@@ -1,0 +1,80 @@
+body{
+font-family: 'Rajdhani',sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  border:2px groove #1c4542;
+  border-radius: 50px;
+}
+
+.flex-container article {
+	border:2px groove #1c4542;
+    border-radius: 50px;
+	 width: 30%;
+}
+
+.navigate {
+	dislay: flex-direction: row;
+	justify-content: space around;
+
+}
+
+#welcome {
+  text-align: center;
+  padding: 3rem 1rem;
+
+}
+
+article {
+  background-color: #B2DFDB;
+}
+
+#why article {
+  padding: 2rem;
+}
+
+#field-notes span,
+#field-notes strong,
+#field-notes a {
+  outline: 2px dashed darkorange;
+}
+
+#field-notes div,
+#field-notes p {
+  outline: 2px solid seagreen;
+}
+h1 {
+    color: #b1b530;
+	background-color: #1d755b;
+	font-family: 'Orbitron',sans-serif;
+	font-style: italic;
+	text-align: center;
+	border:2px groove navy;
+    border-radius: 50px;
+}
+
+h2 { 
+ color: #b1b530;
+	background-color: #1d755b;
+	font-family: 'Orbitron',sans-serif;
+	font-style: italic;
+	text-align: center;
+	border:2px groove navy;
+    border-radius: 50px;
+}
+
+img {
+	border-style: groove;
+	border-color: #328573;
+	border-radius: 75px;
+}
+
+.message {
+	display:flex;
+	background-color: #929C06;
+	border-style:  groove;
+	border-radius: 45px;
+	text-align: center;
+}
