@@ -1,6 +1,6 @@
 # The Unity Nexus— Signup Page
 
-One page that makes the case for the club: what we do, why to join, and a form to sign up.
+This page is part of the Synth Nova arc: What we do, why to join, and a form to sign up.
 
 [See it live](https://CharityCP.github.io/signup-page/)
 This page is a personal project that I am working on for my class assignment in CODEX academy level-2. 
